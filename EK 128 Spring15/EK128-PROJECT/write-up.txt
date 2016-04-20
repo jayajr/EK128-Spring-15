@@ -1,0 +1,9 @@
+Team Members:  
+Alberto, Jessica
+Andaya, Jerome
+Awan, Arslan 
+Phan, Khai
+
+EK128 Final Project: “PHO 307”
+
+	The goal of our project was to develop an 8-bit game using the Python language. We used concepts learned in class as well as some as we learned on our own. We had to research certain topics further such as how to operate PyGame, how to blit sprites and give them screen coordinates, as well as more information on classes, objects, collisions, and image handling. We also chose to execute PyGame through Idle, rather than Sublime. Initially, we were thinking of recreating games such as Pacman, Snake, or Super Mario, but decided to take our own spin on the project and develop a humorous depiction of our encounters in PHO 307 this semester. We replicated the classroom with corresponding characters being the members of our project team. In simulation, the selected character dodges grades from “Professor Giles”, the handsome character on the right. The goal is to collect as many A’s as possible, while dodging all surrounding F’s. The character has 3 lives until the game is over and catching an F deducts a life. We used the PyGame initialization timer in the background, so that if the adventurous gamer makes it past 60 seconds, he or she will encounter a level beyond comprehension. For future developments of our game, we want to refine the graphics and fine tune our code, as well as create more levels with varying difficulty. 
